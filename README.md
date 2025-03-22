@@ -13,6 +13,32 @@ Welcome to my personal portfolio website! This website highlights my experience,
 - **🏅 Certifications** – Certifications I have earned.  
 - **📞 Contact** – Ways to reach out to me .
 
+---
+
+📸 **Screenshots**  
+### Home Page  
+<img src="Home.png" alt="Home Page" width="500">
+
+### Resume Page 
+<img src="Resume1.png" alt="Home Page" width="500"> 
+
+### Projects Page
+<img src="Projects.png" alt="Home Page" width="500">
+
+### Certificates Page
+<img src="Certificates.png" alt="Home Page" width="500">
+
+### Contact Me Page
+<img src="Contact.png" alt="Home Page" width="500">
+
+---
+📌 **Live Demo**
+[Visit My Portfolio](https://portfolio-shettyraksha.vercel.app/)
+
+
+---
+
+
 
 
 
